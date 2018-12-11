@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Localization</string>
+
+    <!-- Login -->
+    <string name="lbl_welcome" translatable="false">accueil</string>
+    <string name="lbl_click_buttons" translatable="false">Boutons de clic</string>
+
+    <!-- Buttons -->
+    <string name="btn_android">Android</string>
+    <string name="btn_ios">iOS</string>
+    <string name="btn_windows">Windows</string>
+
+    <!-- Toast -->
+    <string name="toast_android" translatable="false">Android est développé par Google</string>
+    <string name="toast_ios" translatable="false">iOS est développé par Apple</string>
+    <string name="toast_windows" translatable="false">Windows est développé par Microsoft</string>
+
+</resources>

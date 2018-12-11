@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Localization</string>
+
+    <!-- Login -->
+    <string name="lbl_welcome" translatable="false">स्वागतम</string>
+    <string name="lbl_click_buttons" translatable="false">बटन पर क्लिक करें</string>
+
+    <!-- Buttons -->
+    <string name="btn_android">Android</string>
+    <string name="btn_ios">iOS</string>
+    <string name="btn_windows">Windows</string>
+
+    <!-- Toast -->
+    <string name="toast_android" translatable="false">एंड्रॉइड Google द्वारा विकसित किया गया है</string>
+    <string name="toast_ios" translatable="false">आईओएस ऐप्पल द्वारा विकसित किया गया है</string>
+    <string name="toast_windows" translatable="false">विंडोज माइक्रोसॉफ्ट द्वारा विकसित किया गया है</string>
+
+</resources>
