@@ -1,4 +1,4 @@
-# Android Localization
+# Android Localization : English / German / French / Hindi
 
 ![localization 1](https://user-images.githubusercontent.com/801612/50358044-dc94da80-050c-11e9-8842-231d099ff01c.jpeg)
 
